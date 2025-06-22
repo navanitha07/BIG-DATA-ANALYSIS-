@@ -42,3 +42,8 @@ This data is represented using a pie chart, giving a visual snapshot of the mark
 
 Conclusion
 This project demonstrates the powerful combination of Dask’s scalability and Pandas’ simplicity in performing efficient, high-level retail analytics. By focusing on high-value transactions, regional performance, and product-level analysis, it delivers insights that can drive real-world business decisions. The integration of Matplotlib charts further enhances the presentation of findings, making the analysis both accessible and actionable for stakeholders.
+
+
+# output
+![Image](https://github.com/user-attachments/assets/35fd6735-ff8a-452e-8782-2668947a3b2f)
+![Image](https://github.com/user-attachments/assets/280501e5-cd05-4334-b3c6-b7bb8ab3c28a)
